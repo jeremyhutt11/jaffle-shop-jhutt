@@ -15,7 +15,7 @@ renamed as (
         store_id as location_id,
         customer as customer_id,
 
-        ---------- numerics
+        ---------- numerics test
         subtotal as subtotal_cents,
         tax_paid as tax_paid_cents,
         order_total as order_total_cents,
